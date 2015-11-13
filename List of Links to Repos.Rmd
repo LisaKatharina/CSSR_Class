@@ -49,7 +49,7 @@ Please feel free to share the link to your repository for assignment 3 in the ta
 | Name of/Link to Contributor 1 | Name of/Link to Contributor 2 | Link to Repository |
 |----|----|----|
 | https://github.com/ChristopherCosler | https://github.com/LisaKatharina | https://github.com/ChristopherCosler/CSSG_Dataanalysis |
-| | | |
+[Claire](https://github.com/bctclc) |[Noriko](https://github.com/magaranoriko/) | [our repo](https://github.com/bctclc/Collaborative-Data-Analysis-Assignment2/tree/master/Assignment3)|
 | | | |
 | | | |
 | | | |
